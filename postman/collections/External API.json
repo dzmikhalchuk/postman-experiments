@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "9e7c758a-ed57-4de4-8f0a-b89f0286ef97",
+		"name": "External API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "348369-9e7c758a-ed57-4de4-8f0a-b89f0286ef97"
+	},
+	"item": [
+		{
+			"name": "[GET] - /scopes",
+			"id": "769f5a0d-5a38-4c9d-896d-a2486110c930",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
